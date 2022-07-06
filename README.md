@@ -1,4 +1,4 @@
-(https://media-exp2.licdn.com/dms/image/C4E16AQGKRJ_0kg5bGw/profile-displaybackgroundimage-shrink_200_800/0/1649183991122?e=1662595200&v=beta&t=Qx22FuvfxZKdZJM9zQx5XQdcd7T01r0OQJ8r2xWlX90)
+https://media-exp2.licdn.com/dms/image/C4E16AQGKRJ_0kg5bGw/profile-displaybackgroundimage-shrink_200_800/0/1649183991122?e=1662595200&v=beta&t=Qx22FuvfxZKdZJM9zQx5XQdcd7T01r0OQJ8r2xWlX90
 ### Hi there 👋, My name is Shudipto Kumar Roy
 #### I am a Full Stack Web Developer
 ![I am a Full Stack Web Developer]
