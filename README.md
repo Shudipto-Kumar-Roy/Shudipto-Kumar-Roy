@@ -6,7 +6,7 @@
 
 I am a Full Stack Web Developer. I used the latest MERN stack for the web development. I have an experience of this field is about more than 2 year.
 
-Skills: ReactJS / NodeJS / ExpressJS / MongonDB / JS / HTML / CSS / Bootstrap 
+Skills: ReactJS / NodeJS / ExpressJS / MongonDB / JS / HTML / CSS / Bootstrap / TailwindCSS
 
 -💡 I’m currently learning Advanced MERN stack 
 -✔ I’m looking to collaborate on github 
